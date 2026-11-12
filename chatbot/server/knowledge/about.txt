@@ -1,0 +1,9 @@
+Nityam Rai is a B.Tech Computer Science graduate (2026) from SRM Institute of Science and Technology. He builds full-stack web applications with React, Node.js, Express and SQL.
+
+ApplyTrack is a full-stack job application tracker. It has a REST API built with Node.js and Express, JWT authentication, bcrypt password hashing, and a SQLite database with foreign keys and indexes. Every record belongs to its authenticated owner.
+
+Weather Dashboard is a React app that uses the OpenWeather API and a Geocoding API. It fixes city-name ambiguity by asking the user to choose between matching locations, and it uses debounced search.
+
+BudgetBuddy is an expense tracker built with React and Recharts. It uses useMemo to avoid unnecessary recalculation of filtered lists.
+
+Replace this file with your own notes, documents, or FAQs. Put any .txt files in this folder and the chatbot will search them to answer questions.
